@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-paper": "^2.13.0",
+    "storybook": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-loader-lerna-cra": "^0.1.3",
+    "eslint": "^5.15.1",
+    "eslint-plugin-react-native": "^3.6.0",
+    "lerna": "^3.13.1"
+  }
+}
