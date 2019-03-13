@@ -2,3 +2,5 @@
 .DS_Store
 factory
 node_modules
+
+lerna-debug.log

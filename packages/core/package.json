@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@airchitect/core",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -20,7 +20,8 @@
     "react-native-paper": "^2.13.0",
     "react-native-web": "^0.10.1",
     "react-navigation": "^3.3.2",
-    "typeface-roboto": "^0.0.54"
+    "typeface-roboto": "^0.0.54",
+    "@airchitect/default": "*"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.3.4",
@@ -40,5 +41,6 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1"
-  }
+  },
+  "gitHead": "eff755acc302171b0db93c650dd5eeac9a7cec90"
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text } from 'react-native';
 import { Button } from 'react-native-paper';
-import Test from 'default';
+import Test from '@airchitect/default';
 
 const HomeScreen = (props) => (
   <>

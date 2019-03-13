@@ -1,5 +1,5 @@
 {
-  "name": "default",
+  "name": "@airchitect/default",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "eff755acc302171b0db93c650dd5eeac9a7cec90"
 }
