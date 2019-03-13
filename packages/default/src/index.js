@@ -1,9 +1,9 @@
 import React from 'react'
 import { Button } from 'react-native-paper';
 
-const TestButton = ({ type = 'button', children, onClick }) => (
+const TestButton = () => (
     <Button>
-      {children}
+      Test
     </Button>
 )
 

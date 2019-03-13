@@ -12,6 +12,7 @@
     "web": "webpack-dev-server --open"
   },
   "dependencies": {
+    "@airchitect/default": "^0.0.1",
     "@reach/router": "^1.2.1",
     "@react-navigation/core": "^3.1.1",
     "@react-navigation/web": "^1.0.0-alpha.7",
@@ -20,13 +21,13 @@
     "react-native-paper": "^2.13.0",
     "react-native-web": "^0.10.1",
     "react-navigation": "^3.3.2",
-    "typeface-roboto": "^0.0.54",
-    "@airchitect/default": "*"
+    "typeface-roboto": "^0.0.54"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.3.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
+    "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.1",

@@ -1,6 +1,5 @@
-
 .DS_Store
-factory
 node_modules
-
 lerna-debug.log
+package-lock.json
+yarn-lock.json
